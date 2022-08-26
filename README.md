@@ -9,4 +9,4 @@ Johnnyabdul75/Johnnyabdul75 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->this is an update
 my first readme.
-this an upd
+this is an update
